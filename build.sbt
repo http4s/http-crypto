@@ -81,7 +81,7 @@ ThisBuild / Test / jsEnv := {
 val catsVersion = "2.10.0"
 val catsEffectVersion = "3.5.2"
 val scodecBitsVersion = "1.1.38"
-val munitVersion = "1.0.0-M10"
+val munitVersion = "1.0.0"
 val munitCEVersion = "2.0.0-M3"
 val disciplineMUnitVersion = "2.0.0-M3"
 
